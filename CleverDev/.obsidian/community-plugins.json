@@ -1,4 +1,5 @@
 [
   "automatic-table-of-contents",
-  "github-sync"
+  "github-sync",
+  "obsidian-plugin-toc"
 ]

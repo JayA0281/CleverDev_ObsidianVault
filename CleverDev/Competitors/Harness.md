@@ -1,4 +1,14 @@
 https://www.harness.io/
+- [[#What does it do?|What does it do?]]
+	- [[#What does it do?#About the platform: Harness is a modular platform|About the platform: Harness is a modular platform]]
+		- [[#About the platform: Harness is a modular platform#core modules:|core modules:]]
+		- [[#About the platform: Harness is a modular platform#AI for DevOps & Automation|AI for DevOps & Automation]]
+		- [[#About the platform: Harness is a modular platform#AI for Testing & Resilience|AI for Testing & Resilience]]
+		- [[#About the platform: Harness is a modular platform#AI for Security & Compliance|AI for Security & Compliance]]
+		- [[#About the platform: Harness is a modular platform#AI for Cost & Optimization|AI for Cost & Optimization]]
+	- [[#What does it do?#Integrate first, then remove other tools|Integrate first, then remove other tools]]
+		- [[#Integrate first, then remove other tools#Integrations:|Integrations:]]
+
 ```table-of-contents
 ```
 ## What does it do?
