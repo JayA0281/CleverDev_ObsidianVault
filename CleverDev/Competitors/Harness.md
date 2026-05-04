@@ -46,8 +46,9 @@ https://www.harness.io/
 - Artifact registries
 - Monitoring tools
 
-At first, Harness sits in the middle integrating with your tools, soon removing the need of those tools at all
+### Verdict 
+***"At first, Harness sits in the middle integrating with your tools, soon removing the need of those tools at all"***
 
-they start with 1 or 2 modules(usually CI/CD), gradually expanding
+***they start with 1 or 2 modules(usually CI/CD), gradually expanding***
 
-so it is a seperate tool/platform where teams work, but it also integrates with your existing tools
+***so it is a seperate tool/platform where teams work, but it also integrates with your existing tools***
