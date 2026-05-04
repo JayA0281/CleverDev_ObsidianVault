@@ -1,13 +1,20 @@
+<!-- Table of Contents arrowType: Index | title: Table of contents  | codeBlocks: n -->
+# Table of contents
+1. [[Harness##What does it do?|What does it do?]]
+	1. [[Harness###About the platform: Harness is a modular platform|About the platform: Harness is a modular platform]]
+		1. [[Harness####core modules:|core modules:]]
+		2. [[Harness####AI for DevOps & Automation|AI for DevOps & Automation]]
+		3. [[Harness####AI for Testing & Resilience|AI for Testing & Resilience]]
+		4. [[Harness####AI for Security & Compliance|AI for Security & Compliance]]
+		5. [[Harness####AI for Cost & Optimization|AI for Cost & Optimization]]
+	2. [[Harness###Integrate first, then remove other tools|Integrate first, then remove other tools]]
+		1. [[Harness####Integrations:|Integrations:]]
+
+<!-- End of TOC -->
+
 https://www.harness.io/
-- [[#What does it do?|What does it do?]]
-	- [[#What does it do?#About the platform: Harness is a modular platform|About the platform: Harness is a modular platform]]
-		- [[#About the platform: Harness is a modular platform#core modules:|core modules:]]
-		- [[#About the platform: Harness is a modular platform#AI for DevOps & Automation|AI for DevOps & Automation]]
-		- [[#About the platform: Harness is a modular platform#AI for Testing & Resilience|AI for Testing & Resilience]]
-		- [[#About the platform: Harness is a modular platform#AI for Security & Compliance|AI for Security & Compliance]]
-		- [[#About the platform: Harness is a modular platform#AI for Cost & Optimization|AI for Cost & Optimization]]
-	- [[#What does it do?#Integrate first, then remove other tools|Integrate first, then remove other tools]]
-		- [[#Integrate first, then remove other tools#Integrations:|Integrations:]]
+
+
 
 ```table-of-contents
 ```
@@ -61,4 +68,3 @@ At first, Harness sits in the middle integrating with your tools, soon removing 
 they start with 1 or 2 modules(usually CI/CD), gradually expanding
 
 so it is a seperate tool/platform where teams work, but it also integrates with your existing tools
-

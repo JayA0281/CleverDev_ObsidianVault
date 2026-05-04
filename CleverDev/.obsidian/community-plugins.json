@@ -1,5 +1,6 @@
 [
   "automatic-table-of-contents",
   "github-sync",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "table-of-contents-automatic-but-compatible-with-publish"
 ]
