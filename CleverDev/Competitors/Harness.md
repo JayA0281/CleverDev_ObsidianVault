@@ -1,31 +1,4 @@
-<!-- Table of Contents arrowType: Index | title: Table of contents  | codeBlocks: n -->
-# Table of contents
-1. [[Harness##What does it do?|What does it do?]]
-	1. [[Harness###About the platform: Harness is a modular platform|About the platform: Harness is a modular platform]]
-		1. [[Harness####core modules:|core modules:]]
-		2. [[Harness####AI for DevOps & Automation|AI for DevOps & Automation]]
-		3. [[Harness####AI for Testing & Resilience|AI for Testing & Resilience]]
-		4. [[Harness####AI for Security & Compliance|AI for Security & Compliance]]
-		5. [[Harness####AI for Cost & Optimization|AI for Cost & Optimization]]
-	2. [[Harness###Integrate first, then remove other tools|Integrate first, then remove other tools]]
-		1. [[Harness####Integrations:|Integrations:]]
-
-<!-- End of TOC -->
-
 https://www.harness.io/
-
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: false # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-
 ```table-of-contents
 ```
 ## What does it do?
